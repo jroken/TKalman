@@ -16,7 +16,7 @@
     -   Bu kütüphaneyi GitHub'dan [buradan](https://github.com/jroken/TKalman) indirerek Arduino IDE'ye yükleyebilirsiniz.
 2.  **Arduino IDE'ye Ekleyin**:
     
-    -   Kütüphaneyi Arduino IDE'ye eklemek için, indirdiğiniz dosyayı `libraries/` dizinine koyun. Arduino IDE, bu dizinde bulunan tüm kütüphaneleri otomatik olarak tanıyacaktır.
+    -   Kütüphaneyi Arduino IDE'ye eklemek için, indirdiğiniz dosyayı zip kütüphanesi olarak ekleyin.
 3.  **Kütüphaneyi Arduino Projenize Dahil Edin**:
     
     -   Projenize eklemek için `#include <TKalman.h>` ifadesini kullanabilirsiniz.
